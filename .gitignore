@@ -1,0 +1,10 @@
+# Ignore node_modules if added later
+node_modules/
+
+# Ignore local OS and editor files
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Ignore Vercel local config
+.vercel/
